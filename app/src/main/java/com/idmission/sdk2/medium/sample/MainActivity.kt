@@ -20,7 +20,7 @@ import kotlinx.coroutines.withContext
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding
-    var apiBaseUrl = "https://api.idmission.com/"
+    var apiBaseUrl = "https://apidemo.idmission.com/"
     //TODO update your loginID, password, MerchantID and productID
     var loginID = ""
     var password = ""
