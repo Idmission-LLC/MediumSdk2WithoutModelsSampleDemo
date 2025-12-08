@@ -326,7 +326,7 @@ android {
 }
 
 dependencies {  
-     implementation 'com.idmission.sdk2:signatureLib:10.01.04.1'    
+     implementation 'com.idmission.sdk2:signatureLib:10.01.22.2'    
 }
 
 ```
